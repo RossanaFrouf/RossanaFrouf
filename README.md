@@ -3,8 +3,10 @@ Me chamo Rossana Frouf 👋
 
 Sou estudante do 4º período Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedora Front-end Júnior. 
 
+
 ### Stacks:
 Tenho conhecimento em linguagem de marcação HTML, estilizo com SCSS. Minha linguagem de programação é JavaScript
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -36,9 +38,11 @@ Tenho conhecimento em linguagem de marcação HTML, estilizo com SCSS. Minha lin
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rossana-frouf-programadora/)
 <a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RossanaFrouf/count.svg?"  />
-</div>
+
 
 Apaixonada por tecnologia! ❤️
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RossanaFrouf/count.svg?"  />
+</div>
