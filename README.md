@@ -1,7 +1,7 @@
 ### Olá! 
-###Me chamo Rossana Frouf 👋
+Me chamo Rossana Frouf 👋
 
-###Sou estudante do 4º período Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedora Front-end Júnior. 
+Sou estudante do 4º período Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedora Front-end Júnior. 
 
 ### Stacks:
 Tenho conhecimento em linguagem de marcação HTML, estilizo com SCSS. Minha linguagem de programação é JavaScript
