@@ -5,7 +5,7 @@ Sou estudante do 4º período Análise e Desenvolvimento de Sistemas e atualment
 
 
 ### Stacks:
-Tenho conhecimento em linguagem de marcação HTML, estilizo com SCSS, e minha linguagem de programação é JavaScript.
+Tenho conhecimento em linguagem de marcação HTML, estilizo com SASS, e minha linguagem de programação é JavaScript.
 
 
 <div align="left">
