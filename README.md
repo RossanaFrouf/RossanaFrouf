@@ -16,7 +16,7 @@ Tenho conhecimento em linguagem de marcação HTML, estilizo com SASS, CSS e Sty
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
- ![snake gif](https://github.com/your-user-name/RossanaFrouf/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/your-user-name/rossanafrouf/blob/output/github-contribution-grid-snake.gif)
 
 
 ##
