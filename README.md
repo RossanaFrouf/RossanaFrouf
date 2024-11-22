@@ -40,6 +40,7 @@ Tenho conhecimento em linguagem de marcação HTML, estilizo com SASS, CSS e Sty
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rossana-frouf-programadora/)
 <a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+ ![snake gif](https://github.com/your-user-name/rossanafrouf/blob/output/github-contribution-grid-snake.gif)
 
 
 Apaixonada por tecnologia! ❤️
@@ -48,4 +49,3 @@ Apaixonada por tecnologia! ❤️
 <div align="center">
   <img src="https://profile-counter.glitch.me/RossanaFrouf/count.svg?"  />
 </div>
- ![snake gif](https://github.com/your-user-name/rossanafrouf/blob/output/github-contribution-grid-snake.gif)
