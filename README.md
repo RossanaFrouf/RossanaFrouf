@@ -5,7 +5,7 @@ Sou estudante do 4º período Análise e Desenvolvimento de Sistemas e atualment
 
 
 ### Stacks:
-Tenho conhecimento em linguagem de marcação HTML, estilizo com SASS, CSS e Styled Components, minha linguagem de programação é JavaScript e faço uso de uma de suas bibliotecas o React. Atualmente estou iniciando os estudos de Python 
+Tenho conhecimento em linguagem de marcação HTML, estilizo com SASS e CSS. Minha linguagem de programação é JavaScript, faço uso do seu framework Vuejs e de uma de suas bibliotecas o React estilizando através do Styled Components. Atualmente estou estudando Python e MySQL.
 
 
 <div align="left">
@@ -14,7 +14,8 @@ Tenho conhecimento em linguagem de marcação HTML, estilizo com SASS, CSS e Sty
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> -->
 </div>
 
 ##
@@ -27,10 +28,11 @@ Tenho conhecimento em linguagem de marcação HTML, estilizo com SASS, CSS e Sty
 ## No momento estou estudando:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /> 
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> -->
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  /> -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> 
 </div>
 
 
