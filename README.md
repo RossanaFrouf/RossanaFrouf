@@ -1,7 +1,11 @@
 ### Olá! 
-Me chamo Rossana Frouf 👋
+Me chamo Rossana e sigo transformando desafios em códigos eficientes!
 
-Sou estudante do 4º período Análise e Desenvolvimento de Sistemas e atualmente sou Desenvolvedora Front-End Júnior. 
+Sou Desenvolvedora Front-End Júnior com experiência prática em HTML, CSS, SASS, React e Vue.js. No meu dia a dia como estagiária de TIC, atuo diretamente com desenvolvimento e manutenção de sistemas utilizando HTML, CSS, Vue.js, PHP e MySQL, além de aplicar metodologias ágeis como o Scrum para otimizar processos internos.
+
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas, e trago comigo uma bagagem rica em rotinas administrativas, suporte de TI, TIC (Tecnologia da informação e comunicação) e também como instrutora de informática. Essa combinação me permite unir visão estratégica,  de comunicação e tecnologia para gerar soluções mais completas e eficazes.
+
+Estou sempre em busca de novos aprendizados, desafios e oportunidades para crescer na área de tecnologia. 😊
 
 
 ### Stacks:
