@@ -22,12 +22,16 @@ Acredito no poder da colaboração, da melhoria contínua e da tecnologia como f
 
 ---
 
+<br>
+<img src="https://pacman.abozanona.me?username=RossanaFrouf" alt="Pacman contribution graph" />
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossanafrouf&layout=compact&langs_count=20&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rossanafrouf&theme=tokyonight" />
 </div>
 
 <br>
+
 
 ###
 
